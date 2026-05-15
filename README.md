@@ -1,10 +1,8 @@
 # ⚡ Core Web Vitals — Framework Comparison
 
-[![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=white)](https://react.dev)
-[![Preact](https://img.shields.io/badge/Preact-10-673AB8?style=flat-square&logo=preact&logoColor=white)](https://preactjs.com)
-[![Svelte](https://img.shields.io/badge/Svelte-4-FF3E00?style=flat-square&logo=svelte&logoColor=white)](https://svelte.dev)
-[![web-vitals](https://img.shields.io/badge/web--vitals-v3-4285F4?style=flat-square&logo=google&logoColor=white)](https://github.com/GoogleChrome/web-vitals)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+Aditya Sharma
+2210991199
+Research Paper
 
 > A research project comparing real **Core Web Vitals** (LCP, INP, CLS, FCP, TTFB) across three JavaScript frameworks — React 18, Preact 10, and Svelte 4 — using an identical app implemented in each.
 
